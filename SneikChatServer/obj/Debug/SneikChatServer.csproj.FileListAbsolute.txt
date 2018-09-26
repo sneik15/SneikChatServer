@@ -1,0 +1,7 @@
+C:\Users\Adrian\source\repos\SneikChatServer\SneikChatServer\bin\Debug\SneikChatServer.exe.config
+C:\Users\Adrian\source\repos\SneikChatServer\SneikChatServer\bin\Debug\SneikChatServer.exe
+C:\Users\Adrian\source\repos\SneikChatServer\SneikChatServer\bin\Debug\SneikChatServer.pdb
+C:\Users\Adrian\source\repos\SneikChatServer\SneikChatServer\obj\Debug\SneikChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\SneikChatServer\SneikChatServer\obj\Debug\SneikChatServer.exe
+C:\Users\Adrian\source\repos\SneikChatServer\SneikChatServer\obj\Debug\SneikChatServer.pdb
+C:\Users\Adrian\source\repos\SneikChatServer\SneikChatServer\obj\Debug\SneikChatServer.csprojResolveAssemblyReference.cache
